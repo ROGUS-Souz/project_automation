@@ -29,8 +29,11 @@ Time module
 Código
 product-registration-automation/
 │
+
 ├── produto.csv           # Product database
+
 ├── cadastro.py           # Main automation script
+
 └── README.md             # Project documentation
 
 
