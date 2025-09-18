@@ -2,6 +2,9 @@
 
 This project automates the process of registering products into a web-based system using Python and the PyAutoGUI library. It simulates human interactions—such as mouse clicks, keystrokes, and navigation—to streamline repetitive tasks and improve operational efficiency.
 
+**Key results:** Automated the registration process of thousands of products into a system using Python, executed both daily and on demand.
+
+
 🚀 Features
 
 Reads product data from a CSV file
